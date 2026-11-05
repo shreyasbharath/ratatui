@@ -207,7 +207,9 @@ impl Ring<'_> {
         let Some(label) = &self.label else {
             return;
         };
-        let width = u16::try_from(label.width()).unwrap_or(u16::MAX).min(area.width);
+        let width = u16::try_from(label.width())
+            .unwrap_or(u16::MAX)
+            .min(area.width);
         let x = area.x + (area.width - width) / 2;
         let y = area.y + (area.height - 1) / 2;
         buf.set_line(x, y, label, width);

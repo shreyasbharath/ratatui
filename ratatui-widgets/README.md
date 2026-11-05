@@ -47,6 +47,7 @@ cargo add ratatui-widgets
 - [`RatatuiLogo`]: displays the Ratatui logo.
 - [`RatatuiMascot`]: displays the Ratatui mascot.
 - [`Paragraph`]: displays a paragraph of optionally styled and wrapped text.
+- [`Ring`]: displays progress as an arc around a braille ring.
 - [`Scrollbar`]: displays a scrollbar.
 - [`Sparkline`]: displays a single dataset as a sparkline.
 - [`Table`]: displays multiple rows and columns in a grid and allows selection.
@@ -65,6 +66,7 @@ cargo add ratatui-widgets
 [`RatatuiLogo`]: https://docs.rs/ratatui-widgets/latest/ratatui_widgets/logo/struct.RatatuiLogo.html
 [`RatatuiMascot`]: https://docs.rs/ratatui-widgets/latest/ratatui_widgets/mascot/struct.RatatuiMascot.html
 [`Paragraph`]: https://docs.rs/ratatui-widgets/latest/ratatui_widgets/paragraph/struct.Paragraph.html
+[`Ring`]: https://docs.rs/ratatui-widgets/latest/ratatui_widgets/ring/struct.Ring.html
 [`Scrollbar`]: https://docs.rs/ratatui-widgets/latest/ratatui_widgets/scrollbar/struct.Scrollbar.html
 [`Sparkline`]: https://docs.rs/ratatui-widgets/latest/ratatui_widgets/sparkline/struct.Sparkline.html
 [`Table`]: https://docs.rs/ratatui-widgets/latest/ratatui_widgets/table/struct.Table.html

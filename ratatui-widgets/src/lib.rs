@@ -46,8 +46,8 @@
 //! - [`RatatuiLogo`]: displays the Ratatui logo.
 //! - [`RatatuiMascot`]: displays the Ratatui mascot.
 //! - [`Paragraph`]: displays a paragraph of optionally styled and wrapped text.
-//! - [`Scrollbar`]: displays a scrollbar.
 //! - [`Ring`]: displays progress as an arc around a braille ring.
+//! - [`Scrollbar`]: displays a scrollbar.
 //! - [`Sparkline`]: displays a single dataset as a sparkline.
 //! - [`Table`]: displays multiple rows and columns in a grid and allows selection.
 //! - [`Tabs`]: displays a tab bar and allows selection.
